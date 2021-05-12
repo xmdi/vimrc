@@ -9,4 +9,5 @@ set showmatch
 set ruler
 set undolevels=1000
 set backspace=indent,eol,start
-colorscheme zellner 
+colorscheme peachpuff 
+syntax on
